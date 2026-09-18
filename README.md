@@ -1,6 +1,6 @@
 # Hi, I'm Minahil Nisar 
 
-### Computer Science Student | AI Automation | AI Agents | Web Development | DevOps
+### Computer Science Student | AI Automation | AI Agents | Web Development | DevOps | Networking
 
 I'm a Computer Science student interested in building practical software solutions using **AI, automation, web technologies, and cloud/DevOps tools**.
 
